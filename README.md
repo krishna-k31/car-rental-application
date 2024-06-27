@@ -1,4 +1,4 @@
-# Selenium testing of Car Rental Portal
+# Selenium testing of Car Rental Application
 ## Description
 The Car Rental Portal application is designed for administrative management of a car rental service. It includes functionalities for user registration, vehicle management, brand management, and more.
 
